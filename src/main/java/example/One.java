@@ -11,5 +11,8 @@ public class One {
     System.out.println(foo());
     System.out.println("Added new issue");
     System.out.println("This is new problem");
+    System.out.println("This is new aaproblem");
+    System.out.println("This is new aaproblem");
+    System.out.println("This is new aaproblem");
   }
 }
